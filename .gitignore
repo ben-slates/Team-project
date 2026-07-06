@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Bun output
+bun.lockb
+
+# Vite local files
+dist/
+.cache/
+
+# Local env files
+.env
+
+# Local editor state
+.vscode/
+*.code-workspace
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# MacOS
+.DS_Store
+
+# Linux
+*.swp
